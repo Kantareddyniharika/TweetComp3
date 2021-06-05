@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "secrets1": {
+      "type": "secrets"
+    },
+    "cosmosdb1": {
+      "type": "cosmosdb",
+      "connectionId": "TweetApp1"
+    },
+    "cosmosdb2": {
+      "type": "cosmosdb",
+      "connectionId": "TweetAppDb"
+    }
+  }
+}
